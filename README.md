@@ -21,7 +21,7 @@ cargo install --git https://github.com/coral-xyz/anchor anchor-cli --locked
 ```
 
 ### 3️⃣ Clone the Repository
-```sh
+```sh 
 
 ```
 

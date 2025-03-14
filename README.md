@@ -16,7 +16,7 @@ sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```
  
 ### 2️⃣ Install Anchor 
-```sh
+```sh 
 cargo install --git https://github.com/coral-xyz/anchor anchor-cli --locked
 ```
 

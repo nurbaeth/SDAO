@@ -10,7 +10,7 @@
 ## 🛠 Installation
  
 ### 1️⃣ Install Rust & Solana CLI
-```sh
+```sh 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```

@@ -15,7 +15,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```
  
-### 2️⃣ Install Anchor 
+### 2️⃣ Install Anchor  
 ```sh 
 cargo install --git https://github.com/coral-xyz/anchor anchor-cli --locked
 ```
